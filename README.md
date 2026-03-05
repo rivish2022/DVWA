@@ -1,8 +1,5 @@
 # DVWA SQL Injection Penetration Test
 
-![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
-![Vulnerability](https://img.shields.io/badge/vulnerability-SQL%20Injection-critical)
-
 ## 📋 Overview
 A hands-on penetration testing project focused on SQL Injection vulnerabilities in Damn Vulnerable Web Application (DVWA).
 
@@ -17,7 +14,7 @@ A hands-on penetration testing project focused on SQL Injection vulnerabilities 
 - ✅ User credentials extracted (5 accounts)
 
 ## 📄 Full Report
-➡️ **[Download the Complete Penetration Test Report (PDF)](PENETRATION_TEST_REPORT.pdf)**
+➡️ **[Download the Complete Penetration Test Report (PDF)]()**
 
 ## 🔧 Remediation
 - Use prepared statements
